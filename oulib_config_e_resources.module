@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the OUlib Config: E-Resources feature.
+ */
+
+include_once 'oulib_config_e_resources.features.inc';
